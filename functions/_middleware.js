@@ -12,7 +12,7 @@ export async function onRequest(context) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
-    <meta property="og:title" content="">
+    <meta property="og:title" content="Chora photo jo Lan  na kha">
     <meta property="og:description" content="">
     <meta property="og:image" content="https://deirwzouuhpjfmsyuihb.supabase.co/storage/v1/object/public/sdgdffd/1b3c0b2c-b72b-4bf7-9db9-962b18d47eff.jpg">
     <meta property="og:url" content="https://www.google.com">
